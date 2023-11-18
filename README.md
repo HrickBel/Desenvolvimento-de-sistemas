@@ -19,7 +19,7 @@ O curso técnico em desenvolvimento de sistemas tem como objetivo capacitar os a
 <table>
   <th>Ano</th>
   <th>Matéria</th>
-  <th>O que se estuda?</th>
+  <th>O que é estudado?</th>
   <tr>
     <td>1º ano</td>
     <td>Algoritmos e Lógica de programação</td>
