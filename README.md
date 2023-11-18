@@ -90,10 +90,10 @@ O curso técnico em desenvolvimento de sistemas tem como objetivo capacitar os a
   </tr>
   <tr>
     <td>Suporte computacional</td>
-    <td></td>
+    <td>Realiza manutenção de computadores</td>
   </tr>
   <tr>
     <td>Suporte de redes de computares</td>
-    <td></td>
+    <td>Realiza manutenção de equipamentos de rede e cabeamento</td>
   </tr>
 </table>
