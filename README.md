@@ -1,6 +1,6 @@
 # Técnico em Desenvolvimento de Sistemas
 
-O curso técnico em desenvolvimento de sistemas tem como objetivo capacitar os alunos para atuarem nas diversas áreas de tecnologias. Desse modo, este prepara os alunos para compreender e manipular tecnologias e técnicas dos profissionais de tecnologia da área.
+O curso técnico em desenvolvimento de sistemas tem como objetivo capacitar os alunos para compreender e manipular tecnologias e técnicas dos profissionais de tecnologia da área.
 
 ## Quais as línguagens trabalhadas no curso?
 <h3>Desenvolvimento Front-End</h3>
