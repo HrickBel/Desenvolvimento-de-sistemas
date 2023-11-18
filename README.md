@@ -2,7 +2,7 @@
 
 O curso técnico em desenvolvimento de sistemas tem como objetivo capacitar os alunos para compreender e manipular tecnologias e técnicas dos profissionais de tecnologia da área.
 
-## Quais as línguagens trabalhadas no curso?
+## Quais as linguagens trabalhadas no curso?
 <h3>Desenvolvimento Front-End</h3>
 
 ![html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
