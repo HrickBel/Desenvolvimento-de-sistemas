@@ -78,7 +78,7 @@ O curso técnico em desenvolvimento de sistemas tem como objetivo capacitar os a
   <th>O que faz</th>
   <tr>
     <td>Desenvolvedor Back-end</td>
-    <td>Desenvolve a arquitetura que leva os dados do cliente a um servidor</td>
+    <td>Desenvolve os sistemas por trás da arquitetura cliente-servidor</td>
   </tr>
   <tr>
     <td>Desenvolvedor Front-end</td>
