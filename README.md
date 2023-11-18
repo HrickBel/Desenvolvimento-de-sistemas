@@ -86,7 +86,7 @@ O curso técnico em desenvolvimento de sistemas tem como objetivo capacitar os a
   </tr>  
   <tr>
     <td>Desenvolvedor Mobile</td>
-    <td>Desenvolve software adaptado aos dispostivos mobile</td>
+    <td>Desenvolve software adaptado aos dispostivos móveis</td>
   </tr>
   <tr>
     <td>Suporte computacional</td>
